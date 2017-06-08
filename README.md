@@ -1,2 +1,1 @@
-"# TargetRecruit Alexa " 
-"# targetRecruitAlexaSkill" 
+"# TargetRecruit Alexa "
