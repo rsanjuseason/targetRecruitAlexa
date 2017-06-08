@@ -1,0 +1,30 @@
+{
+  "name": "targetrecruit",
+  "version": "1.0.0",
+  "description": "alexa service for targetrecruit ",
+  "main": "server.js",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsanjuseason/targetRecruitAlexa.git"
+  },
+  "keywords": [
+    "nodejs",
+    "get",
+    "job",
+    "details"
+  ],
+  "author": "NPM @sanjay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsanjuseason/targetRecruitAlexa/issues"
+  },
+  "homepage": "https://github.com/rsanjuseason/targetRecruitAlexa#readme"
+}
